@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14F27" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="OWlist" representedClassName="OWlist" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="listid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="OWlist" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
